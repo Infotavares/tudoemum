@@ -1,2 +1,2 @@
 # tudoemum
-projeto das disciplinas apsihm 
+projeto das disciplinas APSIHM e TEPI
